@@ -1,0 +1,116 @@
+{
+  "team_projections": {
+    "NYY": {
+      "projected_wins": 165.99,
+      "win_std": 8.33126040884571,
+      "min_wins": "142",
+      "max_wins": "182",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        148.95,
+        181.0
+      ]
+    },
+    "BOS": {
+      "projected_wins": 151.97,
+      "win_std": 7.656964150366644,
+      "min_wins": "128",
+      "max_wins": "167",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        137.95,
+        165.52499999999998
+      ]
+    },
+    "TB": {
+      "projected_wins": 152.6,
+      "win_std": 8.996666049153987,
+      "min_wins": "131",
+      "max_wins": "173",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        134.95,
+        169.0
+      ]
+    },
+    "TOR": {
+      "projected_wins": 141.58,
+      "win_std": 7.498239793444859,
+      "min_wins": "119",
+      "max_wins": "165",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        128.0,
+        155.0
+      ]
+    },
+    "BAL": {
+      "projected_wins": 118.6,
+      "win_std": 7.269112738154499,
+      "min_wins": "91",
+      "max_wins": "135",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        106.0,
+        130.52499999999998
+      ]
+    },
+    "HOU": {
+      "projected_wins": 167.92,
+      "win_std": 8.063101140380171,
+      "min_wins": "147",
+      "max_wins": "186",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        151.0,
+        182.0
+      ]
+    },
+    "LAA": {
+      "projected_wins": 143.97,
+      "win_std": 7.930264812728512,
+      "min_wins": "118",
+      "max_wins": "164",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        129.475,
+        159.09999999999997
+      ]
+    },
+    "OAK": {
+      "projected_wins": 121.02,
+      "win_std": 7.821738937090652,
+      "min_wins": "104",
+      "max_wins": "147",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        109.0,
+        138.67499999999995
+      ]
+    },
+    "SEA": {
+      "projected_wins": 149.49,
+      "win_std": 8.716071362718411,
+      "min_wins": "127",
+      "max_wins": "172",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        132.475,
+        168.04999999999998
+      ]
+    },
+    "TEX": {
+      "projected_wins": 126.86,
+      "win_std": 8.540515206941558,
+      "min_wins": "104",
+      "max_wins": "149",
+      "playoff_probability": 100.0,
+      "confidence_95": [
+        108.95,
+        143.0
+      ]
+    }
+  },
+  "simulation_date": "2025-05-22T22:42:35.975930",
+  "iterations": 100
+}
